@@ -10,7 +10,9 @@ const { User } = require('../models/user');
 const { v4: uuidv4} = require('uuid');
 
 
-mongoose.connect("mongodb+srv://Tom:password11@cluster0.ex92r1w.mongodb.net/finalproject?retryWrites=true&w=majority") 
+mongoose.connect("mongodb+srv://Rachel:kpEUaMhTSxAjPc1P@cluster0.j6si328.mongodb.net/Graduate?retryWrites=true&w=majority") 
+
+//mongoose.connect("mongodb+srv://Tom:password11@cluster0.ex92r1w.mongodb.net/finalproject?retryWrites=true&w=majority") 
 
  
 
